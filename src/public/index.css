@@ -131,7 +131,7 @@ header > h3{
     color: white;
 }
 
-@media (max-width: 412px){
+@media (max-width: 512px){
     #chat-sidebar{
         display: none;
     }
