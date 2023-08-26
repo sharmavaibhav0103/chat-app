@@ -135,4 +135,7 @@ header > h3{
     #chat-sidebar{
         display: none;
     }
+    .main{
+        height: 100svh;
+    }
 }
